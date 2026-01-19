@@ -18,5 +18,5 @@ Unity Game Developer
 - Web/Android builds
 
 ## 📫 Contact
-Telegram: @your_telegram  
-Email: yourmail@gmail.com  
+Telegram: @SebastianB4M
+Email: rabotastepa47@mail.ru / rabotastepa45@gmail.com
