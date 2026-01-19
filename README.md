@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sebastian 👋  
+Unity Game Developer
 
-<!--
-**Sebastian-hi/Sebastian-hi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎮 About Me
+- Unity developer with commercial experience  
+- Worked on Yandex Games projects  
+- Integrated Ads SDK and localization systems  
+- Used Managers architecture and event-based systems  
+- Applied design patterns (Singleton, Command, Observer)  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- Unity / C#
+- Ads SDK (Yandex Games)
+- Localization Systems
+- Event & Messenger Systems
+- Design Patterns
+- Unity UI (UGUI)
+- Web/Android builds
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+Telegram: @your_telegram  
+Email: yourmail@gmail.com  
