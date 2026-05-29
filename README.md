@@ -14,7 +14,7 @@ Unity Game Developer
 - Localization Systems
 - Event & Messenger Systems
 - Design Patterns
-- Unity UI (UGUI)
+- Unity UI (UGUI) / DOTween
 - Web/Android builds
 
 ## 📫 Contact
